@@ -1,0 +1,12 @@
+{
+  "home": {
+    "link": "Accueil",
+    "email_text": "Entrer votre Email:",
+    "password_text": "Tapez votre mot de passe:",
+    "button_text": "Connexion"
+  },
+  "setting": {
+    "link": "Réglages",
+    "lang_text": "Choisissez une langue:"
+  }
+}

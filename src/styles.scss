@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+/*
+1.create the routes files for each component
+2. define the routes class in each route file for both components.
+3. make the imports of RouterModule, declaration of the component to use and export the component in the home.module.ts
+implement the same on the setting.module.ts file
+4. clean up the app.module.ts by removing the homeComponent and the settingsComponent
+5.clean up the app.component.html, have the <router-outlet> tag only
+6. Add the homeRoutes and the settingRoutes on the app.routing.module.ts
+7. test whether the routes are functional
+
+
+1.create new directory for the lang.json files
+2. and the key:value pairs for each language file
+3.configure the translate module in the app.module.ts
+4.create a service file and implement the .use method to set the default language file
+5.call the service in each component created
+6.implement the html component with the view you need
+7.implement the settings.html with the change language buttons
+8.ensure you include the translateModule in home/settings module.ts
+9.translate the lang.json files
+
+ */
